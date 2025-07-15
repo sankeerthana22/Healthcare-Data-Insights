@@ -32,23 +32,5 @@ Through comprehensive data analysis, this project identified critical trends and
     * **Power BI:** For developing interactive dashboards to visualize key performance indicators (KPIs) and present key findings to stakeholders.
     * **Tableau (Implicit from PPT):** Indicated as a tool for dashboard development in the project's workflow.
 
-## 📂 Project Files & Structure
 
-Healthcare-Data-Analytics-Project/
-├── Data/
-│   ├── Data_Healthcare_Patient_V3.xlsx - Lab result.csv
-│   ├── Data_Healthcare_Patient_V3.xlsx - Treatments.csv
-│   ├── Data_Healthcare_Patient_V3.xlsx - Visit.csv
-│   ├── Data_Healthcare_Patient_V3.xlsx - Doctor.csv
-│   └── Data_Healthcare_Patient_V3.xlsx - Patient.csv
-│   └── HealthcareDashboard.xlsx - Visit.csv (and other sheets)
-├── SQL/
-│   └── Actual Healthcare sql project.sql
-├── Documentation/
-│   ├── Health care KPI.docx
-│   ├── Healthcare Project KPI PPT.pptx
-│   └── QA Queries.docx
-├── PowerBI/
-│   └── (Your Power BI .pbix file, if added)
-└── README.md
 
