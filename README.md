@@ -34,17 +34,21 @@ Through comprehensive data analysis, this project identified critical trends and
 
 ## 📂 Project Files & Structure
 
-Healthcare-Data-Analytics-Project/  <-- This is the main project folder
-├── Data/                           <-- This folder should contain all your input data files
+Healthcare-Data-Analytics-Project/
+├── Data/
 │   ├── Data_Healthcare_Patient_V3.xlsx - Lab result.csv
 │   ├── Data_Healthcare_Patient_V3.xlsx - Treatments.csv
-│   ├── ... (and all other CSVs from your original Excel file)
-├── SQL/                            <-- This folder should contain all your SQL scripts
+│   ├── Data_Healthcare_Patient_V3.xlsx - Visit.csv
+│   ├── Data_Healthcare_Patient_V3.xlsx - Doctor.csv
+│   └── Data_Healthcare_Patient_V3.xlsx - Patient.csv
+│   └── HealthcareDashboard.xlsx - Visit.csv (and other sheets)
+├── SQL/
 │   └── Actual Healthcare sql project.sql
-├── Documentation/                  <-- This folder holds supporting documents
+├── Documentation/
 │   ├── Health care KPI.docx
 │   ├── Healthcare Project KPI PPT.pptx
 │   └── QA Queries.docx
-├── PowerBI/                        <-- This folder is where you would place your Power BI project file (e.g., .pbix)
+├── PowerBI/
 │   └── (Your Power BI .pbix file, if added)
-└── README.md                       <-- This is the file itself, which you are creating!
+└── README.md
+
