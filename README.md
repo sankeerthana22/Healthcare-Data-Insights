@@ -33,3 +33,18 @@ Through comprehensive data analysis, this project identified critical trends and
     * **Tableau (Implicit from PPT):** Indicated as a tool for dashboard development in the project's workflow.
 
 ## 📂 Project Files & Structure
+
+Healthcare-Data-Analytics-Project/  <-- This is the main project folder
+├── Data/                           <-- This folder should contain all your input data files
+│   ├── Data_Healthcare_Patient_V3.xlsx - Lab result.csv
+│   ├── Data_Healthcare_Patient_V3.xlsx - Treatments.csv
+│   ├── ... (and all other CSVs from your original Excel file)
+├── SQL/                            <-- This folder should contain all your SQL scripts
+│   └── Actual Healthcare sql project.sql
+├── Documentation/                  <-- This folder holds supporting documents
+│   ├── Health care KPI.docx
+│   ├── Healthcare Project KPI PPT.pptx
+│   └── QA Queries.docx
+├── PowerBI/                        <-- This folder is where you would place your Power BI project file (e.g., .pbix)
+│   └── (Your Power BI .pbix file, if added)
+└── README.md                       <-- This is the file itself, which you are creating!
